@@ -1,3 +1,3 @@
-haiku="""123 Ocean Road
+haiku="123 Ocean Road
 Hong Kong
 Kowloon Bay"""
