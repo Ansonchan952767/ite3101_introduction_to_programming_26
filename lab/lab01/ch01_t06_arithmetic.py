@@ -1,2 +1,2 @@
-product="9*2"
-remainder="1398/11"
+product=9*2
+remainder=1398%11
