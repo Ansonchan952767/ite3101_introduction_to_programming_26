@@ -1,5 +1,4 @@
-haiku = """The old pond, 
-    A frog jumps in;
+haiku = """The old pond, A frog jumps in;
     Plop!"""
 
 print(haiku)
