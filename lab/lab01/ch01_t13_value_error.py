@@ -1,3 +1,3 @@
 float_1 = 0.25
 float_2 = 40.0
-fproduct = float_1*float_2
+product = float_1*float_2
