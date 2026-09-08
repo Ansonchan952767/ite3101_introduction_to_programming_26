@@ -1,1 +1,1 @@
-pro
+product="9*2"
