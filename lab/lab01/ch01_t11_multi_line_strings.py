@@ -1,3 +1,3 @@
-haiku=""""""
+haiku=""
 
 print(haiku)
