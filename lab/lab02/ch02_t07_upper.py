@@ -1,3 +1,2 @@
 parrot = "norwegian blue"
-
 print()
