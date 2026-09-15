@@ -1,2 +1,2 @@
 parrot = "norwegian blue"
-print(parrot.)
+print(parrot.upper()
