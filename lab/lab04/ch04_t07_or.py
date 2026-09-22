@@ -1,6 +1,6 @@
 bool_one = 5 > 10 or 4 < 9
 
-bool_two = 
+bool_two = 1 + 1
 
 bool_three =
 
