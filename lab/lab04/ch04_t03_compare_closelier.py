@@ -13,4 +13,4 @@ bool_three = False
 bool_four = None
 
 # 100 != 10**2
-bool_five = None
+bool_five = False
