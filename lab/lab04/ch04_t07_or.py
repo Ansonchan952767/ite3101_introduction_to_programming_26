@@ -6,4 +6,4 @@ bool_three = 10 < 2 or 3 == 8
 
 bool_four = 9 != 2 or 5 > 1
 
-bool_five = 6 == 6 or 2 >100
+bool_five = 6 > 7 or 2 >100
