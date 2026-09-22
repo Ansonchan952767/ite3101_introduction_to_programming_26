@@ -13,4 +13,4 @@ bool_three = (5>10) and not (2<9)
 bool_four = (4 != 6) or not (1 == 2)
 
 # Make me true!
-bool_five = None
+bool_five = not (7<3)
