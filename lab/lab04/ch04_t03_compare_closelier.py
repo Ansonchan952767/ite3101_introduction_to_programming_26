@@ -10,7 +10,7 @@ bool_two = False
 bool_three = False
 
 # 40 * 4 >= -4
-bool_four = t
+bool_four = Tr
 
 # 100 != 10**2
 bool_five = False
