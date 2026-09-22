@@ -1,4 +1,4 @@
-bool_one = None
+bool_one = not 5 > 2
 
 bool_two = None
 
