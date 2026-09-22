@@ -6,4 +6,4 @@ bool_three = 9>2 and not (1>5 or 3<1)
 
 bool_four = not not 6==6 or 2>10 and not 5<1
 
-bool_five = None
+bool_five = 8<3 or not (1<5 and 2!=9)
