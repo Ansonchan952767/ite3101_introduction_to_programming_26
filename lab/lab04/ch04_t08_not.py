@@ -6,4 +6,4 @@ bool_three = not 10 < 1
 
 bool_four = not 7 == 9
 
-bool_five = not not 
+bool_five = not not 1 == 2
