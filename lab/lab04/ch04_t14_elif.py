@@ -3,7 +3,7 @@ def greater_less_equal_5(answer: int) -> int:
         return 1
     elif False:
         return -1
-    else:
+    else True:
         return 0
 
 
