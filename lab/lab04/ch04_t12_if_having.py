@@ -1,5 +1,5 @@
 def using_control_once() -> str:
-    if tuple:
+    if True:
         return "Success #1"
 
 
