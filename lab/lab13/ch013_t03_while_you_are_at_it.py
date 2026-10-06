@@ -1,6 +1,6 @@
 num = 1
 
-while :  # Fill in the condition
+while num <0:  # Fill in the condition
     print(num**2)
     num+=1
     pass
