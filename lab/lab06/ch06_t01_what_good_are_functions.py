@@ -6,7 +6,7 @@ return bill
  
  
 def tip(bill: float) -> float:
-"""Adds 15% tip to a restaurant bill."""
+    """Adds 15% tip to a restaurant bill."""
     bill *= 1.15
 print("With tip: %f" % bill)
 return bill
