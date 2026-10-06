@@ -7,4 +7,3 @@ if len(original) > 0 and original.isalpha():
     first = word[0]
 else:
     print("empty")
-new_word = word[1:] + first
