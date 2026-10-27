@@ -15,4 +15,8 @@ def print_board(board_in: List[List[str]]) -> None:
 def print_board(board_in: List[List[str]]):
     return randint(0, len(board)-1)
 
-def pandom_com(board_in: List[List[str]]): 
+def pandom_com(board_in: List[List[str]]):
+    return randint(0, len(board)-1)
+
+random_row(board)
+random_col(board)
