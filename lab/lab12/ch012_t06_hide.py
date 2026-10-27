@@ -12,7 +12,7 @@ def print_board(board_in: List[List[str]]) -> None:
         print(" ".join(row))
 
 # Add your code below!
-def random_(board_in: List[List[str]]):
+def random_row(board_in: List[List[str]]):
     return randint(0, len(board)-1)
 
 def pandom_com(board_in: List[List[str]]):
