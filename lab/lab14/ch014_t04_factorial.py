@@ -1,1 +1,2 @@
-def factorial_sum(n:int)
+def factorial_sum(n:int)-> int:
+    
