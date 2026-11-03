@@ -1,1 +1,1 @@
-def factorial_sum(n)
+def factorial_sum(n:int)
