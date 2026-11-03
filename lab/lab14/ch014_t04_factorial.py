@@ -1,4 +1,4 @@
-def factorial_sum(n: int)-> int:
+def factorial(n: int)-> int:
     value = 1
     for i in range(1, x+1):
         value *= i
