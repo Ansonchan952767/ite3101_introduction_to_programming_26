@@ -1,2 +1,3 @@
 def factorial_sum(n:int)-> int:
-    va
+    value = 1
+    for i range 
