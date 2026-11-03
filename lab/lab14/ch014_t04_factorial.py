@@ -1,1 +1,1 @@
-def dight
+def diglt
