@@ -1,5 +1,4 @@
 from typing import List
-range(3)
 
 
 def my_function(x: range) -> List[int]:
