@@ -1,6 +1,5 @@
-def remove_duplicates(items:list)->list:
-    result = []
-    for x in items:
-        if x not in result:
-            result.append(x)
+def product(numbers:list)->int:
+    result = 1
+    for n in numbers:
+        result *= n
     return result
