@@ -4,7 +4,7 @@ n = "Hello"
 
 # print(string_function(n))
 def add_function(n):
-    return x + y
+    return n + "word"
 
 
 print(add_function(n))
