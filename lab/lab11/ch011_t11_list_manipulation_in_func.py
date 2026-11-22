@@ -8,4 +8,4 @@ def list_extender(lst):
     return lst
 
 
-print(list_extendr(n))
+print(list_extender(n))
