@@ -3,4 +3,7 @@ n = [3, 5, 7]
 
 
 # print(list_extender(n))
-def list_extender(list)
+def list_extender(list):
+    list.append(9)
+    return list
+
