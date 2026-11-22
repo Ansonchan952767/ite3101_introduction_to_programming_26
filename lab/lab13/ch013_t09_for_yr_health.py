@@ -1,4 +1,4 @@
-print("Counting...")
+print("Let's get healthy!")
 
-for i in range(10):
-    print(i)
+for health in range(100, 0, -10):
+    print(health)
