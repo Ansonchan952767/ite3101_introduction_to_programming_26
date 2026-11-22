@@ -1,6 +1,8 @@
-def count(sequence:list, item)->int:
-    total = 0
-    for x in sequence:
-        if x == item:
-            total += 1
-    return total
+def purify(lst):
+    result = []
+
+    for n in lst:
+        if n % 2 == 0:
+            result.append(n)
+
+    return result
