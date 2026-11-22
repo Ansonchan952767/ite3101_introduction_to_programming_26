@@ -8,3 +8,5 @@ def flatten(lst):
         for j in i:
             new_list.append(j)
     return new_list
+
+print(flatten(n))
