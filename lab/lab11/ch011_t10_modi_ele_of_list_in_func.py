@@ -1,5 +1,6 @@
 from typing import List
 
+
 def list_function(x: List[int]) -> List[int]:
     return x[1]
 
