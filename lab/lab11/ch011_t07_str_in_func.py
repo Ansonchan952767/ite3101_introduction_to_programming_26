@@ -4,7 +4,7 @@ n = "Hello"
 
 # print(string_function(n))
 def string_function(s):
-    return s + "word"
+    return s + "world"
 
 
 print(string_function(s))
