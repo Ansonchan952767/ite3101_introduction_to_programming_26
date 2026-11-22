@@ -1,7 +1,11 @@
-inventory["pocket"] = ["seashell", "strange berry", "lint"]
+# Adding a key 'burlap bag' and assigning a list to it
+inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 
-inventory["backpack"].sort()
+# Sorting the list found under the key 'pouch'
+inventory['pouch'].sort()
 
-inventory["backpack"].remove("dagger")
-
-inventory["gold"] += 50
+# Your code here
+inventory['pocket'] = ['seashell', 'strange berry', 'lint']
+inventory['backpack'].sort()
+inventory['backpack'].remove('dagger')
+inventory['gold'] += 50
