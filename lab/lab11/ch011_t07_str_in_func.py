@@ -3,3 +3,8 @@ n = "Hello"
 
 
 # print(string_function(n))
+def add_function(n):
+    return x + y
+
+
+print(add_function(m,n))
