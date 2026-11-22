@@ -7,4 +7,4 @@ def string_function(s):
     return s + "word"
 
 
-print(string_function(n))
+print(string_function(s))
