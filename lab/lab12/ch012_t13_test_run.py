@@ -22,7 +22,7 @@ ship_col = random_col(board)
 print(ship_row)
 print(ship_col)
 
-# while 循環：不停估，直到打中
+# Write your code below!
 while True:
     guess_row = int(input("Guess Row: "))
     guess_col = int(input("Guess Col: "))
