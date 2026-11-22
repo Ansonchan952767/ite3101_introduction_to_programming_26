@@ -12,4 +12,4 @@ def double_list(x):
 
 
 double_list(n)
-p
+print(n)
