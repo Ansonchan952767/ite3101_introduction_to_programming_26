@@ -7,4 +7,4 @@ def add_function(n):
     return n + "word"
 
 
-print(add_function(n))
+print(str_function(n))
