@@ -3,4 +3,4 @@ result.append(x[i])
 
 # print(my_function(__))  # Add your range between the parentheses!
 
-print(my_function(range(3)))
+    print(my_function(range(3)))
