@@ -3,4 +3,4 @@ n = [3, 5, 7]
 
 
 # print(list_extender(n))
-def list_exten
+def list_extender(list)
