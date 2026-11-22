@@ -1,4 +1,5 @@
-print(max(1, 2, 3))
-print(min(1, 2, 3))
-print(abs(-5)) # Imports the math module
-  # Sets everything to a list of things from math  # Prints 'em all!
+import math
+
+print(math.ceil(4.2))
+print(math.floor(4.9))
+print(math.sqrt(25))
