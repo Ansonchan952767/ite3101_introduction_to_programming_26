@@ -1,1 +1,1 @@
-zoo_animals[2] = "elephant"
+zoo_animals[2] = "cat"
