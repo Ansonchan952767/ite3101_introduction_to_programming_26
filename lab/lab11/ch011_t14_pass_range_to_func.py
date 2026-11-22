@@ -1,6 +1,13 @@
-result.append(x[i])
+n = ["Michael", "Lieberman"]
+# Add your function here
+
+
+# print(join_strings(n))
+def join_strings(words):
+    result = ""
+    for word in words:
+        result += word
     return result
 
-# print(my_function(__))  # Add your range between the parentheses!
 
-print(my_function(range(3)))
+print(join_strings(n))
