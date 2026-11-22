@@ -1,2 +1,2 @@
 import math
-print(dir(25))
+print(dir(math))
