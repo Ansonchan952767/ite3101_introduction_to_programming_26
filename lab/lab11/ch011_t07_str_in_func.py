@@ -3,8 +3,8 @@ n = "Hello"
 
 
 # print(string_function(n))
-def add_function(n):
+def string_function(n):
     return n + "word"
 
 
-print(str_function(n))
+print(string_function(n))
