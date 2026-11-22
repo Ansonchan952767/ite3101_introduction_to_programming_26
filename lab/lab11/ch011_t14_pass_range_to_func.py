@@ -1,6 +1,11 @@
-def my_function(x):
-    for i in range(0, len(x)):
-        x[i] = x[i]
-    return x
+from typing import List
 
-print(my_function(range(3))) # Add your range between the parentheses!
+
+def my_function(x: range) -> List[int]:
+    result = []
+    for i in range(0, len(x)):
+        result.append(x[i])
+    return result
+
+
+print(my_function(range(3)))
