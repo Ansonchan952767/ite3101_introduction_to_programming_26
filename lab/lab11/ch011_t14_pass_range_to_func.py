@@ -4,7 +4,7 @@ def my_function(x):
         result.append(x[i])
     return result
 
-print(my_function(range(3))))
+print(my_function(range(3)))
 result.append(x[i])
     return result
 
